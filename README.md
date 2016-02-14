@@ -1,8 +1,8 @@
 # PHYS227 HW 1
 
-**Author:** _\<your name\>_
+**Author:** Michael Seaman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-1-seama107.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-1-seama107)
 
 **Due date:** 2016/02/09
 
@@ -19,7 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw1.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+I thought that the first problem was relatively difficult in just understanding the thing and that the formula is a little bit flawed as well. The other problems I thought were good, but they ended up taking way more time than I would've liked.
 
 ## Honor Pledge
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Michael Seaman
